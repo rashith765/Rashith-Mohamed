@@ -1,12 +1,13 @@
 
-import Goku from "./day3/Goku";
+import MaterialButton from "./day4/MaterialButton";
+
 
 
 
 function App() {
   return (
     <div >
-     <Goku></Goku>
+     <MaterialButton></MaterialButton>
     </div>
   );
 }
